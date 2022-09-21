@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Backend for the Leader Bridge",
   "main": "app.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "build": "npm install",
     "start": "node app.js",
